@@ -73,7 +73,7 @@ This is a simple social media platform where users can create posts, comment on 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/social-media-app.git
+   git clone https://github.com/DarkenSoda/social-media-platform.git
    cd social-media-platform
    ```
 
